@@ -117,7 +117,6 @@ class BlockChain:
 
 blockchain = BlockChain()
 
-
 print("***Mining Ra Coin about to start ***")
 print(blockchain.chain)
 
